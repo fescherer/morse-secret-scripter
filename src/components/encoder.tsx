@@ -11,7 +11,6 @@ export function Encoder() {
 
   function handleEncoder(rawText: string) {
     const parsedText = rawText.split('').map(letter => dictionary[letter.toLowerCase()])
-    console.log(parsedText, rawText)
     setText(parsedText.join(' '))
   }
 
