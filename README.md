@@ -1,37 +1,108 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<a name="readme-top"></a>
+<div align="center">
 
-## Getting Started
+[![Stargazers][stargazers-shield]][stargazers-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![License][license-shield]][license-url]
+[![Contributing][contributing-shield]][contributing-url]
+[![Issues][issues-shield]][issues-url]
 
-First, run the development server:
+<!-- Badges -->
+[stargazers-shield]: https://img.shields.io/github/stars/fescherer/morse-secret-scripter.svg?style=for-the-badge&color=gold
+[stargazers-url]: https://github.com/fescherer/morse-secret-scripter/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/fescherer/morse-secret-scripter.svg?style=for-the-badge
+[contributors-url]: https://github.com/fescherer/morse-secret-scripter/graphs/contributors
+[license-shield]: https://img.shields.io/github/license/fescherer/morse-secret-scripter.svg?style=for-the-badge
+[license-url]: https://github.com/fescherer/morse-secret-scripter/blob/main/LICENSE
+[contributing-shield]: https://img.shields.io/badge/How%20to%20contribute-%E2%9C%A8-purple.svg?style=for-the-badge
+[contributing-url]: https://github.com/fescherer/morse-secret-scripter/blob/main/CONTRIBUTING.md
+[issues-shield]: https://img.shields.io/github/issues/fescherer/morse-secret-scripter.svg?style=for-the-badge
+[issues-url]: https://github.com/fescherer/morse-secret-scripter/issues
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev  
-# or
-bun dev
-```
+<a href="https://github.com/fescherer/morse-secret-scripter">
+<img src="https://github.com/fescherer/morse-secret-scripter/assets/62115215/45a3008d-1cc8-4576-b229-e75385d10ce5" alt="Logo" width="80" height="80">
+</a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Morse Secret Scripter
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Translate you words to morse
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<!-- **********************🐲 Table of contents 🐲********************** -->
+<a href="#aboutProject">About</a>
+•
+<a href="#buildWith">Build With</a>
+•
+<a href="#contactUs">Contact Us</a>
+•
+<a href="#contributors">Contributors</a>
 
-## Learn More
+</div>
 
-To learn more about Next.js, take a look at the following resources:
+<!-- **********************🐲About🐲********************** -->
+<a name="aboutProject"></a>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📕 About
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+This is a translator for morse code. Very simple and easy to use. Just write your sentence in latin words in the encoder or morse words in decoder.
+Morse works by having two separate "letters" - short bip and long big, which you can see in the Morse Dictionary. 
 
-## Deploy on Vercel
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<!-- **********************🐲Built With🐲********************** -->
+<a name="buildWith"></a>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-    
+## 💻 Built With
+
+<div align="center">
+
+[![Javascript][javascript-shield]][javascript-url]
+
+</div>
+
+<!-- Badges -->
+[javascript-shield]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- **********************🐲 Contact Us 🐲********************** -->
+<a name="contactUs"></a>
+
+## 💬 Contact Us
+
+Share your ideas with us 😁 Find us in our socials below:
+
+<div align="center">
+
+[![Linkedin][linkedin-shield]][linkedin-url]
+[![Github][github-shield]][github-url]
+
+</div>
+
+<!-- Badges -->
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/fescherer/
+[github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://github.com/fescherer
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- **********************🐲Contributors🐲********************** -->
+<a name="contributors"></a>
+
+## 🤗 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+        <a href=https://github.com/fescherer>
+          <img src=https://github.com/fescherer.png width="100px;" alt="Felipe Scherer Picture"/><br>
+          <sub>
+            <b>Felipe Scherer</b>
+          </sub>
+        </a>
+      </td>
+  </tr>
+</table>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
