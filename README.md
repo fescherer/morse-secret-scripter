@@ -43,6 +43,8 @@ Translate you words to morse
 
 ## 📕 About
 
+Unleash the power of Morse code with this user-friendly translator! Whether you're a seasoned communicator or just starting out, this tool makes deciphering and creating Morse code messages a breeze. Simply type your sentence in plain English for encoding or enter your Morse code sequence for decoding.
+
 This is a translator for morse code. Very simple and easy to use. Just write your sentence in latin words in the encoder or morse words in decoder.
 Morse works by having two separate "letters" - short bip and long big, which you can see in the Morse Dictionary. 
 
